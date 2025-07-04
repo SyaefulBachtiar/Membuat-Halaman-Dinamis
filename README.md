@@ -1,16 +1,16 @@
 🚀 Cara Clone dan Menjalankan
 1. Clone repository
-bash
+```bash
 git clone https://github.com/SyaefulBachtiar/BuatHalamanSederhana.git
 2. Install dependencies
-bash
+```bash
 npm install
 3. Install Tailwind
-bash
+```bash
 npm install -D tailwindcss postcss autoprefixer
 4. Install React Router DOM
-bash
+```bash
 npm install react-router-dom
 5. Jalankan proyek (mode development)
-bash
+```bash
 npm run dev
