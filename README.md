@@ -3,7 +3,7 @@
 ### 1. Clone repository
 
 ```bash
-git clone [https://github.com/user/repo.git](https://github.com/SyaefulBachtiar/Membuat-Halaman-Dinamis)
+git clone https://github.com/SyaefulBachtiar/Membuat-Halaman-Dinamis.git
 ```
 ### 2. Install dependencies
 
