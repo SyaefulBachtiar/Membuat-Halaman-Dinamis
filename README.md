@@ -5,22 +5,27 @@
 ```bash
 git clone https://github.com/SyaefulBachtiar/Membuat-Halaman-Dinamis.git
 ```
-### 2. Install dependencies
+## 2. Masuk ke direktori
+
+```bash
+cd Membuat-Halaman-Dinamis
+```
+### 3. Install dependencies
 
 ```bash
 npm install
 ```
-### 3. install tailwind
+### 4. install tailwind
 
 ```bash
 npm install -D tailwindcss postcss autoprefixer
 ```
-### 4. install react route dom
+### 5. install react route dom
 
 ```bash
 npm install react-router-dom
 ```
-### 5. Jalankan proyek (mode development)
+### 6. Jalankan proyek (mode development)
 
 ```bash
 npm run dev
